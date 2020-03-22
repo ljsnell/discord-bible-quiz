@@ -11,13 +11,7 @@ client.on('ready', () => {
 
 client.on('message', msg => {
     if (msg.content === '!ref') {
-        rawdata = fs.readFileSync('./questions/ref.json');
-        // Setup the question response
-        let questionList = JSON.parse(rawdata);
-        var randomQuestion = questionList[Math.floor(Math.random()*questionList.length)];
-        // Build actual response   
-        msg.reply(JSON.stringify(randomQuestion["Q"] + space + discordSpoilerTag 
-            + randomQuestion["A"] + discordSpoilerTag));
+        readQuestionFile(msg, './questions/ref.json')
     } else if (msg.content === '!general') {
         rawdata = fs.readFileSync('./questions/general.json');
     } else if (msg.content === '!part') {
@@ -30,3 +24,13 @@ client.on('message', msg => {
 });
 
 client.login(auth.token);
+
+function readQuestionFile(msg, fileToRead) {
+    rawdata = fs.readFileSync(fileToRead);
+    // Setup the question response
+    let questionList = JSON.parse(rawdata);
+    var randomQuestion = questionList[Math.floor(Math.random()*questionList.length)];
+    // Build actual response   
+    msg.reply(JSON.stringify(randomQuestion["Q"] + space + discordSpoilerTag 
+        + randomQuestion["A"] + discordSpoilerTag));
+}
