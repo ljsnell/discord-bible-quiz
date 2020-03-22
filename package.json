@@ -1,16 +1,15 @@
 {
-  "name": "discord-greeter-bot",
+  "name": "quizzing-bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Discord bot to quiz people on different specialties",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Luke Snell",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "pdf2json": "^1.2.0"
+    "discord.js": "^11.5.1"
   }
 }
