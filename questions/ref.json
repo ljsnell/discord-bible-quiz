@@ -1,14 +1,281 @@
-[
+[    
     {
-        "Q": "According to Heb 1:3, he sat down where?",
-        "A": "At the right hand of the Majesty on high."
-    }, 
-    {
-        "Q": "According to Heb 2:1, we must what?",
-        "A": "Pay much closer attention to what we have heard (lest we drift away from it)"
+    "Q": " According to Heb 1:3, he sat down where?",
+    "A": " At the right hand of the Majesty on high. (cf Heb 10:12)"
     },
     {
-        "Q": "According to Heb 2:18, he is able to what?",
-        "A": "Help those who are being tempted (because he himself has suffered when tempted). (cf Heb 7:25)"
-    }
+    "Q": " According to Heb 2:1, we must what?",
+    "A": " Pay much closer attention to what we have heard (lest we drift away from it). (cf Heb 4:13)"
+},
+    {
+    "Q": " According to Heb 2:18, he is able to what?",
+    "A": " Help those who are being tempted (because he himself has suffered when tempted). (cf Heb 7:25)"
+},
+    {
+    "Q": " According to Heb 3:1, Jesus is the what?",
+    "A": " The apostle and high priest of our confession. (cf Heb 12:2, 24)"
+},
+    {
+    "Q": " According to Heb 3:1, consider whom?",
+    "A": " Jesus, the apostle and high priest of our confession. (cf Heb 12:3)"
+},
+    {
+    "Q": " According to Heb 3:2, who was faithful?",
+    "A": " Jesus was faithful (to him who appointed him just as) Moses was faithful (in all God’s house). (cf Heb 3:5)"
+},
+    {
+    "Q": " According to Heb 3:4, God is what?",
+    "A": " The builder of all things. (cf Heb 6:10; 11:16; 12:7, 23, 29)"
+},
+    {
+    "Q": " According to Heb 3:5, who was faithful?",
+    "A": " Moses was faithful (in all God’s house as a servant). (cf Heb 3:2)"
+},
+    {
+    "Q": " According to Heb 3:6, who is faithful?",
+    "A": " Christ is faithful (over God’s house as a son). (cf Heb 10:23)"
+},
+
+    {
+    "Q": " According to Heb 4:1, let us what?",
+    "A": " Fear lest any of you should seem to have failed to reach it. (cf Heb 4:11, 14, 16; 6:1; 10:22, 23, 24; 12:1, 28; 13:13, 15)"
+},
+    {
+    "Q": " According to Heb 4:3, he has said what?",
+    "A": " “As I swore in my wrath, ‘They shall not enter my rest.”’ (cf Heb 1:13; 13:5)"
+},
+    {
+    "Q": " According to Heb 4:6, what remains?",
+    "A": " For some to enter it (my rest). (cf Heb 4:9)"
+},
+    {
+    "Q": " According to Heb 4:9, what remains?",
+    "A": " A Sabbath rest for the people of God. (cf Heb 4:6)"
+},
+    {
+    "Q": " According to Heb 4:11, let us what?",
+    "A": " (Therefore) Strive to enter that rest (so that no one may fall by the same sort of disobedience.) (cf Heb 4:1, 14, 16; 6:1; 10:22, 23, 24; 12:1, 28; 13:13, 15)"
+},
+    {
+    "Q": " According to Heb 4:12, the word of God is what?",
+    "A": " Living and active, sharper than any two-edged sword. (cf 1Pe 1:23)"
+},
+    {
+    "Q": " According to Heb 4:13, we must what?",
+    "A": " Give account. (cf Heb 2:1)"
+},
+    {
+    "Q": " According to Heb 4:14, let us what?",
+    "A": " Hold fast our confession. (cf Heb 4:1, 11, 16; 6:1; 10:22, 23, 24; 12:1, 28; 13:13, 15)"
+},
+    {
+    "Q": " According to Heb 4:14, we have a what?",
+    "A": " A great high priest who has passed through the heavens (Jesus, the Son of God). (cf Heb 10:21; 13:18)"
+},
+    {
+    "Q": " According to Heb 4:16, let us what?",
+    "A": " (Then) With confidence draw near to the throne of grace. (cf Heb 4:1, 11, 14; 6:1; 10:22, 23, 24; 12:1, 28; 13:13, 15)"
+},
+
+    {
+    "Q": " According to Heb 5:1, every high priest is what?",
+    "A": " Appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins. (cf Heb 8:3)"
+},
+    {
+    "Q": " According to Heb 5:6, you are a what?",
+    "A": " Priest forever, after the order of Melchizedek. (cf Heb 7:17, 21; 1Pe 2:9)"
+},
+    {
+    "Q": " According to Heb 5:9, he became what?",
+    "A": " The source of eternal salvation for all who obey him (once made perfect). (cf Heb 11:7)"
+},
+    {
+    "Q": " According to Heb 6:1, let us what?",
+    "A": " Leave the elementary doctrine of Christ, and go on to maturity. (cf Heb 4:1, 11, 14, 16; 10:22, 23, 24; 12:1, 28; 13:13, 15)"
+},
+    {
+    "Q": " According to Heb 6:4-6, what is impossible?",
+    "A": " In the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, and have tasted the goodness of the word of God and the powers of the age to come, and then have fallen away, to restore them again to repentance. (cf Heb 6:18; 10:4; 11:6)"
+},
+    {
+    "Q": " According to Heb 6:10, God is not what?",
+    "A": " Unjust. (cf Heb 11:16)"
+},
+    {
+    "Q": " According to Heb 6:18, what is impossible?",
+    "A": " For God to lie. Heb 6:4; 10:4; 11:6"
+    },
+
+    {
+    "Q": " According to Heb 7:17, you are a what?",
+    "A": " Priest forever, after the order of Melchizedek. (cf Heb 5:6; 7:21; 1Pe 2:9)"
+},
+    {
+    "Q": " According to Heb 7:21, you are a what?",
+    "A": " Priest forever. (cf Heb 5:6; 7:17; 1Pe 2:9)"
+},
+    {
+    "Q": " According to Heb 7:25, he is able to what?",
+    "A": " Save to the uttermost those who draw near to God through him. (cf Heb 2:18)"
+},
+    {
+    "Q": " According to Heb 7:27, what was once for all?",
+    "A": " He did this (offered sacrifice) once for all when he offered up himself. (cf Heb 9:12, 26; 10:10)"
+},
+
+    {
+    "Q": " According to Heb 8:3, every high priest is what?",
+    "A": " Appointed to offer both gifts and sacrifices. (cf Heb 5:1)"
+},
+    {
+    "Q": " According to Heb 8:5, see that you what?",
+    "A": " Make everything according to the pattern that was shown you on the mountain. (cf Heb 12:25)"
+},
+    {
+    "Q": " According to Heb 8:6, what is better?",
+    "A": " The covenant he mediates. (cf 1Pe 3:17)"
+},
+    {
+    "Q": " According to Heb 8:10, I will put my laws where?",
+    "A": " Into their minds. (cf Heb 10:16)"
+},
+    {
+    "Q": " According to Heb 8:12, I will remember what no more?",
+    "A": " Their sins. (cf Heb 10:17)"
+},
+
+    {
+    "Q": " According to Heb 9:12, what was once for all?",
+    "A": " He (Christ) entered once for all into the holy places. (cf Heb 7:27; 9:26; 10:10)"
+},
+    {
+    "Q": " According to Heb 9:19, he sprinkled what?",
+    "A": " Both the book itself and all the people. (cf Heb 9:21)"
+},
+    {
+    "Q": " According to Heb 9:21, he sprinkled what?",
+    "A": " Both the tent and all the vessels used in worship. (cf Heb 9:19)"
+},
+    {
+    "Q": " According to Heb 9:26, what was once for all?",
+    "A": " He has appeared once for all at the end of the ages to put away sin by the sacrifice of himself. (cf Heb 7:27; 9:12; 10:10)"
+},
+
+    {
+    "Q": " According to Heb 10:4, what is impossible?",
+    "A": " For the blood of bulls and goats to take away sins. (cf Heb 6:4, 18; 11:6)"
+},
+    {
+    "Q": " According to Heb 10:10, what was once for all?",
+    "A": " (By that will) We have been sanctified through the offering of the body of Jesus Christ. (cf Heb 7:27; 9:12, 26)"
+},
+    {
+    "Q": " According to Heb 10:12, he sat down where?",
+    "A": " At the right hand of God. (cf Heb 1:3)"
+},
+    {
+    "Q": " According to Heb 10:16, I will put my laws where?",
+    "A": " On their hearts. (cf Heb 8:10)"
+},
+    {
+    "Q": " According to Heb 10:17, I will remember what no more?",
+    "A": " Their sins and their lawless deeds. (cf Heb 8:12)"
+},
+    {
+    "Q": " According to Heb 10:21, we have a what?",
+    "A": " A great priest over the house of God. (cf Heb 4:14; 13:18)"
+},
+    {
+    "Q": " According to Heb 10:22, let us what?",
+    "A": " Draw near with a true heart in full assurance of faith. (cf Heb 4:1, 11, 14, 16; 6:1; 10:23, 24; 12:1, 28; 13:13, 15)"
+},
+
+    {
+    "Q": " According to Heb 10:23, let us what?",
+    "A": " Let us hold fast the confession of our hope without wavering. (cf Heb 4:1, 11, 14, 16; 6:1; 10:22, 24; 12:1, 28; 13:13, 15)"
+},
+    {
+    "Q": " According to Heb 10:23, who is faithful?",
+    "A": " He who promised. (cf Heb 3:6)"
+},
+    {
+    "Q": " According to Heb 10:24, let us what?",
+    "A": " Consider how to stir up one another to love and good works. (cf Heb 4:1, 11, 14, 16; 6:1; 10:22, 23; 12:1, 28; 13:13, 15)"
+},
+
+    {
+    "Q": " According to Heb 11:6, what is impossible?",
+    "A": " Without faith it is impossible to please God. (cf Heb 6:4, 18; 10:4)"
+},
+    {
+    "Q": " According to Heb 11:7, he became what?",
+    "A": " An heir of the rightousness that comes by faith. (cf Heb 5:9)"
+},
+    {
+    "Q": " According to Heb 11:7, he condemned what?",
+    "A": " The world. (cf 2Pe 2:6)"
+},
+    {
+    "Q": " According to Heb 11:8, by faith Abraham what?",
+    "A": " Obeyed when he was called to go out to a place that he was to receive as an inheritance. (cf Heb 11:17)"
+},
+    {
+    "Q": " According to Heb 11:9, by faith he what?",
+    "A": " Went to live in the land of promise. (cf Heb 11:27, 28)"
+},
+    {
+    "Q": " According to Heb 11:10, he was looking where?",
+    "A": " Forward to the city that has foundations. (cf Heb 11:26)"
+},
+    {
+    "Q": " According to Heb 11:16, God is not what?",
+    "A": " Ashamed to be called their god. (cf Heb 6:10)"
+},
+    {
+    "Q": " According to Heb 11:17, by faith Abraham what?",
+    "A": " When he was tested, offered up Isaac. (cf Heb 11:8)"
+},
+    {
+    "Q": " According to Heb 11:26, he was looking where?",
+    "A": " To the reward. (cf Heb 11:10)"
+},
+    {
+    "Q": " According to Heb 11:27, by faith he what?",
+    "A": " Left Egypt, not being afraid of the anger of the king. cf Heb 11:9, 28)"
+},
+    {
+    "Q": " According to Heb 11:28, by faith he what?",
+    "A": " Kept the Passover and sprinkled the blood. (cf Heb 11:9, 27)"
+},
+    { "Q": " According to Heb 12:1, let us what?", "A": " Let us (also) lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us. (cf Heb 4:1, 11, 14, 16; 6:1; 10:22, 23, 24; 12:28; 13:13, 15)" }, { "Q": " According to Heb 12:2, Jesus is the what?", "A": " The founder and perfecter of our faith. (cf Heb 3:1, 12:24)" }, { "Q": " According to Heb 12:3, consider whom?", "A": " Him who endured from sinners such hostility against himself. (cf Heb 3:1)" }, { "Q": " According to Heb 12:5, do not be what?", "A": " Weary when reproved by him [the Lord]. (cf Heb 13:9; 1Pe 1:14; 4:12)" }, { "Q": " According to Heb 12:23, God is what?", "A": " The judge of all. (cf Heb 3:4; 6:10; 11:16; 12:7, 29)" }, { "Q": " According to Heb 12:24, Jesus is the what?", "A": " The mediator of a new covenant. (cf Heb 3:1; 12:2)" }, { "Q": " According to Heb 12:25, see that you what?", "A": " Do not refuse him who is speaking. (cf Heb 8:5)" }, { "Q": " According to Heb 12:28, let us what?", "A": " Be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe. (cf Heb 4:1, 11, 14, 16; 6:1; 10:22, 23, 24; 12:1; 13:13, 15)" }, { "Q": " According to Heb 12:29, God is what?", "A": " A consuming fire. (cf Heb 3:4; 6:10; 11:16; 12:7, 23)" }, { "Q": " According to Heb 13:2, do not neglect to what?", "A": " To show hospitality to strangers. (cf Heb 13:16)" }, { "Q": " According to Heb 13:3, remember whom?", "A": " Those who are in prison (as though in prison with them), and those who are mistreated (since you also are in the body). (cf Heb 13:7)" }, { "Q": " According to Heb 13:5, be what?", "A": " Content with what you have. (cf 1Pe 1:15; 3:1; 4:7; 5:5, 8; 2Pe 1:10; 3:14)" }, { "Q": " According to Heb 13:5, he has said what?", "A": " “I will never leave you nor forsake you.” (cf Heb 1:13; 4:3)" },
+    {
+    "Q": " According to Heb 13:6, the Lord is what?",
+    "A": " My helper. (cf 1Pe 2:3; 2Pe 3:9)"
+},
+    { "Q": " According to Heb 13:7, remember whom?", "A": " Your leaders (those who spoke to you the word of God). (cf Heb 13:3)" }, { "Q": " According to Heb 13:9, do not be what?", "A": " Carried away by all kinds of strange teachings. (cf Heb 12:5; 1Pe 1:14; 4:12)" }, { "Q": " According to Heb 13:13, let us what?", "A": " Go to him (Jesus) outside the camp and bear the reproach he endured. (cf Heb 4:1, 11, 14, 16; 6:1; 10:22, 23, 24; 12:1, 28; 13:15)" }, { "Q": " According to Heb 13:15, let us what?", "A": " Through him then let us continually offer up a sacrifice of praise to God. (cf Heb 4:1, 11, 14, 16; 6:1; 10:22, 23, 24; 12:1, 28; 13:13)" }, { "Q": " According to Heb 13:16, do not neglect to what?", "A": " To do good and to share what you have. (cf Heb 13:2)" }, { "Q": " According to Heb 13:19, I urge you to what?", "A": " Do this [pray for us] in order that I may be restored to you the sooner. (cf 1Pe 2:11)" }, { "Q": " According to Heb 13:24, greet whom?", "A": " All your leaders and all the saints. (cf 1Pe 5:14)" }, { "Q": " According to 1Pe 1:6, now you have what?", "A": " Been grieved by various trials. (cf 1Pe 2:10, 25)" }, { "Q": " According to 1Pe 1:14, do not be what?", "A": " Conformed to the passions of your former ignorance. (cf Heb 12:5; 13:9; 1Pe 4:12)" }, { "Q": " According to 1Pe 1:15, be what?", "A": " Holy in all your conduct. (cf Heb 13:5; 1Pe 3:1; 4:7; 5:5, 8; 2Pe 1:10; 3:14)" }, { "Q": " According to 1Pe 1:16, what is written?", "A": " “You shall be holy, for I am holy.” (cf Heb 10:7)" }, { "Q": " According to 1Pe 1:22, love whom?", "A": " One another (earnestly from a pure heart). (cf 1Pe 2:17)" },
+    {
+    "Q": " According to 1Pe 1:23, you have been what?",
+    "A": " Born again. (cf 1Pe 2:24)"
+},
+    {
+    "Q": " According to 1Pe 1:23, the word of God is what?",
+    "A": " Living and abiding. (cf Heb 4:12)"
+},    
+    {
+    "Q": " According to 1Pe 2:3, the Lord is what?",
+    "A": " Good. (cf Heb 13:6; 2Pe 3:9)"
+},
+    { "Q": " According to 1Pe 2:9, you are a what?", "A": " A chosen race, a royal priesthood, a holy nation, a people for his own possession. (cf Heb 5:6; 7:17, 21)" }, { "Q": " According to 1Pe 2:10, now you have what?", "A": " (Once you had not received mercy, but now you have) Received mercy. (cf 1Pe 1:6; 2:25)" }, { "Q": " According to 1Pe 2:11, I urge you to what?", "A": " (As sojourners and exiles) To abstain from the passions of the flesh (which wage war against your soul). (cf Heb 13:19)" }, { "Q": " According to 1Pe 2:13, be subject to whom?", "A": " (For the Lord’s sake) To every human institution. (cf Heb 12:9; 1Pe 2:18; 3:1; 5:5)" }, { "Q": " According to 1Pe 2:16, live how?", "A": " As people who are free, not using your freedom as a cover-up for evil, but living as servants of God. (cf 1Pe 3:7)" }, { "Q": " According to 1Pe 2:17, honor whom?", "A": " Honor everyone. Honor the emperor. (cf 1Pe 3:15)" }, { "Q": " According to 1Pe 2:17, love whom?", "A": " The brotherhood. (cf 1Pe 1:22)" }, { "Q": " According to 1Pe 2:18, be subject to whom?", "A": " (Servants) To your masters (with all respect). (cf Heb 12:9; 1Pe 2:13; 3:1; 5:5)" }, { "Q": " According to 1Pe 2:19, what is a gracious thing?", "A": " This is a gracious thing, when, mindful of God, one endures sorrows while suffering unjustly. (cf 1Pe 2:20)" }, { "Q": " According to 1Pe 2:20, what is a gracious thing?", "A": " If when you do good and suffer for it you endure. (cf 1Pe 2:19)" },
+    {
+    "Q": " According to 1Pe 2:21, Christ also suffered why?",
+    "A": " For you, leaving you an example, so that you might follow in his steps. (cf 1Pe 3:18)"
+},    
+    {
+    "Q": " According to 1Pe 2:24, you have been what?",
+    "A": " Healed (by his wounds). (cf 1Pe 1:23)"
+},
+    {
+    "Q": " According to 1Pe 3:1, be subject to whom?",
+    "A": " (Wives) To your own husbands. (cf Heb 12:9; 1Pe 2:13, 18; 5:5)"
+}, { "Q": " According to 1Pe 3:7, live how?", "A": " (Husbands) Live with your wives in an understanding way. (cf 1Pe 2:16)" }, { "Q": " According to 1Pe 3:8, all of you, do what?", "A": " Have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind. (cf 1Pe 5:5)" }, { "Q": " According to 1Pe 3:15, honor whom?", "A": " (In your hearts) Christ the Lord (as holy). (cf 1Pe 2:17)" }, { "Q": " According to 1Pe 3:17, what is better?", "A": " (If that should be God’s will) To suffer for doing good, than for doing evil. (cf Heb 8:6)" }, { "Q": " According to 1Pe 3:18, Christ also suffered why?", "A": " (Once) For sins. (cf 1Pe 2:21)" }, { "Q": " According to 1Pe 4:7, be what?", "A": " Self-controlled and sober-minded. (cf Heb 13:5; 1Pe 1:15; 3:1; 5:5, 8; 2Pe 1:10; 3:14)" }, { "Q": " According to 1Pe 4:12, do not be what?", "A": " Surprised at the painful trial you are suffering, as though something strange were happening to you. (cf Heb 12:5; 13:9; 1Pe 1:14)" }, { "Q": " According to 1Pe 5:5, all of you, do what?", "A": " Clothe yourselves with humility toward one another. (cf 1Pe 3:8)" }, { "Q": " According to 1Pe 5:5, be subject to whom?", "A": " (You who are younger) To the elders. (cf Heb 12:9; 1Pe 2:13, 18; 3:1)" }, { "Q": " According to 1Pe 5:8, be what?", "A": " Sober-minded; watchful. (cf Heb 13:5; 1Pe 1:15; 3:1; 4:7; 5:5; 2Pe 1:10; 3:14)" }, { "Q": " According to 1Pe 5:14, greet whom?", "A": " One another (with the kiss of love). (cf Heb 13:24)" }, { "Q": " According to 2Pe 1:10, be what?", "A": " All the more diligent to confirm your calling and election. (cf Heb 13:5; 1Pe 1:15; 3:1; 4:7; 5:5, 8; 2Pe 3:14)" }, { "Q": " According to 2Pe 1:20, knowing what first of all?", "A": " (This) That no prophecy of Scripture comes from someone’s own interpretation. (cf 2Pe 3:3)" }, { "Q": " According to 2Pe 2:4, God did not spare whom?", "A": " Angels (when they sinned). (cf 2Pe 2:5)" }, { "Q": " According to 2Pe 2:5, he did not spare whom?", "A": " The ancient world. (cf 2Pe 2:4)" }, { "Q": " According to 2Pe 2:6, he condemned what?", "A": " (Them) The cities of Sodom and Gomorrah (to extinction). (cf Heb 11:7)" }, { "Q": " According to 2Pe 3:3, knowing what first of all?", "A": " That scoffers will come in the last days with scoffing, following their own sinful desires. (cf 2Pe 1:20)" }, { "Q": " According to 2Pe 3:9, the Lord is what?", "A": " The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance. (cf Heb 13:6; 1Pe 2:3)" }, { "Q": " According to 2Pe 3:10, the heavenly bodies will what?", "A": " Be burned up and dissolved. (cf 2Pe 3:12)" }, { "Q": " According to 2Pe 3:12, the heavenly bodies will what?", "A": " Melt as they burn. (cf 2Pe 3:10" }
 ]
