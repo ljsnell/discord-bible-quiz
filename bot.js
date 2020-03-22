@@ -11,13 +11,13 @@ client.on('ready', () => {
 
 client.on('message', msg => {
     if (msg.content === '!ref') {
-        readQuestionFile(msg, './questions/ref.json')
+        readQuestionFile(msg, './questions/ref.json');
     } else if (msg.content === '!general') {
-        rawdata = fs.readFileSync('./questions/general.json');
+        readQuestionFile(msg, './questions/general.json');
     } else if (msg.content === '!part') {
-        rawdata = fs.readFileSync('./questions/part.json');
+        readQuestionFile(msg, './questions/part.json');
     } else if (msg.content === '!ftv') {
-        rawdata = fs.readFileSync('./questions/ftv.json');
+        readQuestionFile(msg, './questions/ftv.json');
     } else if (msg.content === '!help') {
         msg.reply("Supported commands are !ref, !general, !part, and !ftv")
     }
