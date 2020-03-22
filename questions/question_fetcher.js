@@ -10,7 +10,6 @@ const discordSpoilerTag = "||"
 const server = http.createServer((req, res) => {
   let rawdata = fs.readFileSync('Refs.json');
   let questionList = JSON.parse(rawdata);
-  // console.log(questionList.length);
   var randomQuestion = questionList[Math.floor(Math.random()*questionList.length)];
   res.statusCode = 200;
   res.setHeader('Content-Type', 'application/json');
