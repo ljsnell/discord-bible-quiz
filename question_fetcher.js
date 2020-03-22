@@ -8,7 +8,7 @@ const port = 3000;
 const discordSpoilerTag = "||"
 
 const server = http.createServer((req, res) => {
-  let rawdata = fs.readFileSync('Refs.json');
+  let rawdata = fs.readFileSync('./questions/Refs.json');
   let questionList = JSON.parse(rawdata);
   var randomQuestion = questionList[Math.floor(Math.random()*questionList.length)];
   res.statusCode = 200;
