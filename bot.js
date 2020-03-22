@@ -27,8 +27,10 @@ client.on('message', msg => {
         readQuestionFile(msg, './questions/multiple.json');
     } else if (msg.content === '!ftv') {
         readQuestionFile(msg, './questions/ftv.json');
-    } else if (msg.content === '!help') {
-        msg.reply("Supported commands are !ref, !general, !2part, !3part, !4part, !5part, !multiple, and !ftv")
+    } else if (msg.content === '!situation') {
+        readQuestionFile(msg, './questions/situation.json');
+    }else if (msg.content === '!help') {
+        msg.reply("Supported commands are !ref, !general, !2part, !3part, !4part, !5part, !multiple, !ftv, and !situation")
     }
 });
 
