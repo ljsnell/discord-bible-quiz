@@ -24,10 +24,19 @@ client.on('message', msg => {
         const args = msg.content.split(':');
         const command = args.shift().toLowerCase();
         // queryString = queryDB(args[0], args[1], args[2])
-        queryString = 'SELECT * from Questions where QType = ' + args[0] + ' Quality = "a" and Book in(' 
-            + args[1] + ') and Chapter in(' + args[2] +') ORDER by RANDOM() LIMIT 1'
-        
+        // queryString = 'SELECT * from Questions where QType = "' + args[0] + '" Quality = "a" and Book in(' 
+        //    + args[1] + ') and Chapter in(' + args[2] +') ORDER by RANDOM() LIMIT 1'
+        let queryString = 'SELECT * FROM Questions'
         msg.reply(queryString)
+        question = db.get(queryString, (err, row) => {
+            if (err) {
+              return console.error(err.message);
+            }
+            return row
+              ? console.log(row.Question, row.Answer)
+              : console.log(`No playlist found with the id ${playlistId}`);
+           
+          });
     }
     else if (msg.content.startsWith('!help')) {
         msg.reply("Supported commands are !ref, !general, !2part, !3part, !4part, !5part, !multiple, !ftv, and !situation")
