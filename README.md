@@ -32,7 +32,7 @@ Hebrews = 1
 
 # Chapter Numbers
 
-Whatever the chapter is in that book. (Can be a list)
+Whatever the chapter you want from in that book. (Can be a list)
 
 
 # Example Commands:
