@@ -10,7 +10,7 @@ client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-let db = new sqlite3.Database('./database/HebAndPetDB.db', (err) => {
+let db = new sqlite3.Database('./database/HebAndPetDB.db', sqlite3.OPEN_READONLY, (err) => {
     if (err) {
     console.error(err.message);
 }
@@ -23,23 +23,19 @@ client.on('message', msg => {
     if (msg.content.startsWith('!quiz')) {
         const args = msg.content.split(':');
         const command = args.shift().toLowerCase();
-        // queryString = queryDB(args[0], args[1], args[2])
-        // queryString = 'SELECT * from Questions where QType = "' + args[0] + '" Quality = "a" and Book in(' 
-        //    + args[1] + ') and Chapter in(' + args[2] +') ORDER by RANDOM() LIMIT 1'
-        let queryString = 'SELECT * FROM Questions'
-        msg.reply(queryString)
+        queryString = 'SELECT * from Quest where QType = "' + args[0] + '" and Quality = "a" and Book in(' 
+            + args[1] + ') and Chapter in(' + args[2] +') ORDER by RANDOM() LIMIT 1'
         question = db.get(queryString, (err, row) => {
             if (err) {
               return console.error(err.message);
             }
             return row
-              ? console.log(row.Question, row.Answer)
-              : console.log(`No playlist found with the id ${playlistId}`);
-           
+              ? msg.reply(row.Qtext + " " + discordSpoilerTag + row.Answer + " " + row.Ref + discordSpoilerTag)
+              : msg.reply('Question not found for the specified parameters. Please check the examples here: https://github.com/ljsnell/discord-bible-quiz/blob/master/README.md');
           });
     }
     else if (msg.content.startsWith('!help')) {
-        msg.reply("Supported commands are !ref, !general, !2part, !3part, !4part, !5part, !multiple, !ftv, and !situation")
+        msg.reply("Please checkout the documentation here: https://github.com/ljsnell/discord-bible-quiz/blob/master/README.md")
     }    
 });
 
