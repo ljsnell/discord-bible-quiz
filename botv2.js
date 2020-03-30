@@ -30,7 +30,7 @@ client.on('message', msg => {
               return console.error(err.message);
             }
             return row
-              ? msg.reply(row.Qtext + " " + discordSpoilerTag + row.Answer + " " + row.Ref + discordSpoilerTag)
+              ? msg.reply(row.Header + " " + row.Qtext + " " + discordSpoilerTag + row.Answer + " " + discordSpoilerTag)              
               : msg.reply('Question not found for the specified parameters. Please check the examples here: https://github.com/ljsnell/discord-bible-quiz/blob/master/README.md');
           });
     }
