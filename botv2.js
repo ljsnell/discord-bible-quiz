@@ -4,11 +4,18 @@ const auth2 = require('./authv2.json');
 const fs = require('fs');
 const discordSpoilerTag = "||"
 const space = " "
+const sqlite3 = require('sqlite3').verbose();
 
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
+let db = new sqlite3.Database('./database/HebAndPetDB.db', (err) => {
+    if (err) {
+    console.error(err.message);
+}
+console.log('Connected to the HebAndPetDB.db database.');
+});
 
 client.on('message', msg => {
     // Example call: !quiz:1:1:1,2,3
