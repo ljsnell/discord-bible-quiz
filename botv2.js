@@ -21,13 +21,13 @@ client.on('message', msg => {
     // Example call: !quiz:1:1:1,2,3
     // Selects a general question from the first 3 chapters
     if (msg.content.startsWith('!quiz')) {
-        const args = msg.content.split(':');
-        const command = args.shift().toLowerCase();
+        const args = msg.content.split(/:|~/);
+        const command = args.shift().toLowerCase();                                               // Change to Abbrev
         queryString = 'SELECT * from Quest where QType = "' + args[0] + '" and Quality = "a" and Book in(' 
             + args[1] + ') and Chapter in(' + args[2] +') ORDER by RANDOM() LIMIT 1'
         question = db.get(queryString, (err, row) => {
-            if (err) {
-              return console.error(err.message);
+            if (err) {                
+              return console.error(err.message+ " " + msg.content);
             }
             return row
               ? msg.reply(row.Header + " " + row.Qtext + " " + discordSpoilerTag + row.Answer + " " + discordSpoilerTag)              
