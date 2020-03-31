@@ -8,7 +8,7 @@ e.g.'s
 
 !quiz:[Question Type]:[Books (list of books by number)]:[Chapters (list of chapters by number)]
 
-!quiz~[Question Type]~[Books (list of books by number)]~[Chapters (list of chapters by number)]
+!quiz~[Question Type]\~[Books (list of books by number)]\~[Chapters (list of chapters by number)]
 
 # Question Type:
 1: General
