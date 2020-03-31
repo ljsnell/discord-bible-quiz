@@ -2,7 +2,13 @@
 Asks questions based on different question types.
 
 # Command format:
+
+You can separate parameters using either :'s or ~'s.
+e.g.'s
+
 !quiz:[Question Type]:[Books (list of books by number)]:[Chapters (list of chapters by number)]
+
+!quiz~[Question Type]\~[Books (list of books by number)]\~[Chapters (list of chapters by number)]
 
 # Question Type:
 1: General
@@ -40,6 +46,6 @@ For daily usage you might want to copy a command to your clipboard and keep retu
 
 Get FTV from Hebrews first 5 chapters: `!quiz:7:1:1,2,3,4,5`
 
-Get General from 2 Peter's chapter : `!quiz:1:3:3`
+Get General from 2 Peter's chapter : `!quiz~1~3~3`
 
-Get Situation from all material (Hebrews, 1 Peter, 2nd Peter): `!quiz:9:1,2,3:1,2,3,4,5,6,7,8,9,10,11,12,13`
+Get Situation from all material (Hebrews, 1 Peter, 2nd Peter): `!quiz~9:1,2,3~1,2,3,4,5,6,7,8,9,10,11,12,13`
