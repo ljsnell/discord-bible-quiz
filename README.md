@@ -49,3 +49,21 @@ Get FTV from Hebrews first 5 chapters: `!quiz:7:1:1,2,3,4,5`
 Get General from 2 Peter's chapter : `!quiz~1~3~3`
 
 Get Situation from all material (Hebrews, 1 Peter, 2nd Peter): `!quiz~9:1,2,3~1,2,3,4,5,6,7,8,9,10,11,12,13`
+
+Get Generals from Hebrews 11-13: `!quiz:1:1:11,12,13`
+
+Get 2 Parts from Hebrews 11-13: `!quiz:2:1:11,12,13`
+
+Get 3 Parts from Hebrews 11-13: `!quiz:3:1:11,12,13`
+
+Get 4 Parts from Hebrews 11-13: `!quiz:4:1:11,12,13`
+
+Get 5 Parts from Hebrews 11-13: `!quiz:5:1:11,12,13`
+
+Get Multiple Parts from Hebrews 11-13: `!quiz:6:1:11,12,13`
+
+Get FTV from Hebrews 11-13: `!quiz:7:1:11,12,13`
+
+Get Ref from Hebrews 11-13: `!quiz:8:1:11,12,13`
+
+Get Situation quesiton from Hebrews 11-13: `!quiz:9:1:11,12,13`
