@@ -66,4 +66,4 @@ Get FTV from Hebrews 11-13: `!quiz:7:1:11,12,13`
 
 Get Ref from Hebrews 11-13: `!quiz:8:1:11,12,13`
 
-Get Situation quesiton from Hebrews 11-13: `!quiz:9:1:11,12,13`
+Get Situation question from Hebrews 11-13: `!quiz:9:1:11,12,13`
